@@ -15,8 +15,8 @@ The player page has functions for viewing currently assigned teams and
 leaving a team. Each page, except the search team page, has a back
 and logout button, and each page checks to see if the user is properly
 logged in or is the right user type before displaying the page.
-	-The file sportlfctables creates the sportlfc database and all of
+	-The file SportLFCCreateTables creates the sportlfc database and all of
 its tables
-	-The file sportlfcpopulate table populates every table with data
+	-The file SportLFCPopulateTables populates every table with data
 for testing the database
 	-The folder sportlfc contains all the php files for the website
