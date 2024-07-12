@@ -1,2 +1,0 @@
-- The Machine Learning for Medical Data contains all of the code for the data visualization and machine learning model for the CDC dataset
-- heart_disease.csv is the CDC survey data taken from the 2015 Behavioral Risk Factor Surveillance System
